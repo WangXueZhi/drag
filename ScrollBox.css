@@ -1,0 +1,17 @@
+.woqu-scrollbox{
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+.woqu-scrollbar{
+    position: absolute;
+    right: 0;
+    top: 0;
+    height: 100%;
+    background: #000;
+}
+.woqu-scrollbar-handle{
+    width: 100%;
+    height: 20px;
+    background: #ccc;
+}
