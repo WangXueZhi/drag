@@ -1,7 +1,7 @@
 # drag
 这是一个拖拽类
 # 使用
-```javascript
+```html
 <body>
 	<div id="text"></div>
 </body>
